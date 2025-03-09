@@ -18,8 +18,17 @@ git clone https://github.com/amisha-singh12/my-mini-projects/To-Do-List.git
 cd todo-app
 npm install  # or yarn install
 
+🔒 Authentication
+Users register using username, email, and password
+Credentials are stored in Firebase
+Users log in with valid credentials
 
+📄 Documentation
+📌 Go through the detailed document:
+ to do app.pdf
 
+📷 demo gif
+ ![Demo](output.gif)
 
 👩‍💻 Created By
 Amisha Kumari Singh
