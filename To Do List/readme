@@ -1,1 +1,35 @@
+📌 To-Do List Application
+📝 Features
+✅ User Registration & Authentication (Firebase)
+✅ Create, Manage & Edit Tasks
+✅ Mark Tasks as Completed
+✅ Delete & Update Tasks
+✅ Responsive User Interface
+
+🚀 Getting Started
+1️⃣ Installation
+bash
+Copy
+Edit
+git clone https://github.com/amisha-singh12/my-mini-projects/To Do List.git
+cd To Do List
+npm install  # or yarn install
+2️⃣ Running the App
+bash
+Copy
+Edit
+npm start  # or yarn start
+🔒 Authentication
+Users register using username, email, and password
+Credentials are stored in Firebase
+Users log in with valid credentials
+🎥 Demo Video
+
+
+📷 Screenshots
+
+
+👩‍💻 Created By
+Amisha Kumari Singh
+
 
