@@ -5,7 +5,8 @@ Each project represents a milestone 📈 in my learning, and I'm excited to shar
 
 projects visuals:
 1.  TO DO LIST
-   ![Demo](https://raw.githubusercontent.com/amisha-singh12/my-mini-projects/main/To%20Do%20List/Untitled%20video%20-%20Made%20with%20Clipchamp.gif)
+   ## 📷 To-Do List Demo  
 
+![Demo](https://raw.githubusercontent.com/amisha-singh12/my-mini-projects/main/To%20Do%20List/Untitled%20video%20-%20Made%20with%20Clipchamp.gif)
 
 Thanks for stopping by, and happy coding! 🚀
