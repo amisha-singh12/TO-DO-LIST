@@ -14,7 +14,7 @@
 ## 📂 Setup & Installation  
 
 ```bash
-git clone https://github.com/amisha-singh12/my-mini-projects/To-Do-List.git
+git clone https://github.com/amisha-singh12/To-Do-List.git
 cd todo-app
 npm install  # or yarn install
 
