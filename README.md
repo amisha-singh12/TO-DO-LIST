@@ -28,13 +28,13 @@ npm start
 Users register using username, email, and password
 Credentials are stored in Firebase
 Users log in with valid credentials
+---
 
 📄 Documentation
-📄 **Go through the detailed document:**  
 [📌 Click here to view the PDF](https://github.com/amisha-singh12/TO-DO-LIST/raw/main/To%20Do%20List/to%20do%20app.pdf)
 
-
 📷 demo gif
+
 ![Demo](https://raw.githubusercontent.com/amisha-singh12/TO-DO-LIST/main/To%20Do%20List/Untitled%20video%20-%20Made%20with%20Clipchamp.gif)
 
 
