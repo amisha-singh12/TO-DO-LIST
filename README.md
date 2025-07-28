@@ -11,7 +11,6 @@
 
 ---
 
-## 📂 Setup & Installation  
 
 ```bash
 git clone https://github.com/amisha-singh12//To-Do-List.git
