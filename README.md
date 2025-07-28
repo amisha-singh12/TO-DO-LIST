@@ -10,11 +10,19 @@
 ✅ **Responsive UI**  
 
 ---
+```
+# Clone the repository
+git clone https://github.com/amisha-singh12/TO-DO-LIST.git
 
+# Navigate to the project directory
+cd TO-DO-LIST
 
-git clone https://github.com/amisha-singh12//To-Do-List.git
-cd todo-app
-npm install  # or yarn install
+# Install dependencies
+npm install    # or yarn install
+
+# Start the development server
+npm start
+```
 
 🔒 Authentication
 Users register using username, email, and password
